@@ -1,0 +1,86 @@
+<html>
+<head>
+  <title>Home</title>
+    <style>
+      img{
+        height:50%;
+        width:50%;
+      }
+     .aj img{
+        height:50%;
+        width:50%;
+      }
+     .card{
+        float:left;
+        width:50%;
+        height:100%;
+      }
+    </style>
+  </head>
+  <body>
+<hr>
+<center>
+      <h1>
+        <b>HAMAM SOAP</b>  
+      </h1>
+ </center>
+    <hr>
+
+    <div clsss="aj">
+      <center>
+        <img src="C:\Users\Kongu Arts College\OneDrive\Pictures\img1.jpg">
+      </center>
+    </div>
+
+   <div class="card">
+<img src="C:\Users\Kongu Arts College\OneDrive\Pictures\images.jpg">
+    </div>
+
+   <div class="card">
+      <h2>
+        <b>
+           <u>one plus</u>
+        </b>
+</h2>
+      <p>
+       Prize:<s>85,000/-</s>
+      </p>
+      <p>
+        Offer:65,000/-
+      </p>
+
+   <h3>
+      <b>
+      <u>Storage</u>               
+      </b>
+      </h3>
+       <p>
+          65GB ROM|8GB RAM
+        </p>
+<h3>
+<b>
+          <u>DISPLAY</u>               
+</b>
+</h3>
+<p>FHD+ AMOLED</p>
+         <h3>
+        <b>
+        <u>CAMERA</u>
+       </b>
+        </h3>
+           <p>
+     20MP|FRONT<br>
+     16MP|BACK  
+          </p>
+        <h3>
+        <b>
+        <u>BATTERY</u>
+        </b>
+     </h3>
+        <p>
+5000MAH battery<br>  
+        </p>
+        <hr>
+</div>
+</body>
+</html>
